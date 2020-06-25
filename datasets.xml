@@ -1,150 +1,310 @@
 <?xml version="1.0"?>
 <items>
 <item id="0" class="" implements="DataSource">
-    <attribute name="name" value="HumanMine"/>
-    <attribute name="description" value="An integrated database of Homo sapiens genomic data"/>
-    <attribute name="url" value="http://www.humanmine.org"/>
+    <attribute name="name" value="FlyMine"/>
+    <attribute name="description" value="The FlyMine Drosophila and Anopheles data warehouse"/>
+    <attribute name="url" value="http://www.flymine.org"/>
 </item>
 
-<item id="20" class="" implements="Publication">
-    <attribute name="pubMedId" value="26896845"/>
+<item id="20" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="26896845"/> 
+</item> 
+
+<item id="22" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="12351791"/> 
 </item>
 
-<item id="22" class="" implements="Publication">
-    <attribute name="pubMedId" value="20379172"/>
+<item id="24" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="16303794"/> 
 </item>
 
-<item id="27" class="" implements="Publication">
-    <attribute name="pubMedId" value="22080510"/>
+<item id="25" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="18158296 "/> 
 </item>
 
-<item id="29" class="" implements="Publication">
-    <attribute name="pubMedId" value="29145629"/>
+<item id="26" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="26944682"/> 
 </item>
 
-
-<item id="32" class="" implements="Publication">
-    <attribute name="pubMedId" value="27980099"/>
+<item id="27" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="22080510"/> 
 </item>
 
-
-<item id="35" class="" implements="Publication">
-    <attribute name="pubMedId" value="10802651"/>
+<item id="29" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="29145629 "/> 
 </item>
 
-<item id="36" class="" implements="Publication">
-    <attribute name="pubMedId" value="27899635"/>
+<item id="30" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="23203866"/> 
 </item>
 
-<item id="37" class="" implements="Publication">
-    <attribute name="pubMedId" value="18227866"/>
+<item id="31" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="12537577"/> 
 </item>
 
-<item id="38" class="" implements="Publication">
-    <attribute name="pubMedId" value="25613900"/>
+<item id="32" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="27980099"/> 
 </item>
 
-<item id="39" class="" implements="Publication">
-    <attribute name="pubMedId" value="30445434"/>
+<item id="33" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="15572468"/> 
 </item>
 
-
-<item id="40" class="" implements="Publication">
-    <attribute name="pubMedId" value="27899595"/>
+<item id="34" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="24194607"/> 
 </item>
 
-<item id="41" class="" implements="Publication">
-    <attribute name="pubMedId" value="27899635"/>
-</item>
-
-<item id="42" class="" implements="Publication">
-    <attribute name="pubMedId" value="24234451"/>
-</item>
-
-<item id="43" class="" implements="Publication">
-    <attribute name="pubMedId" value="27899602"/>
-</item>
-
-<item id="44" class="" implements="Publication">
-  <attribute name="pubMedId" value="30395331"/>
-</item>
-
-<item id="45" class="" implements="Publication">
-  <attribute name="pubMedId" value="26582918"/>
-</item>
-
-<item id="46" class="" implements="Publication">
-  <attribute name="pubMedId" value="17099234"/>
-</item>
-
-<item id="47" class="" implements="Publication">
-  <attribute name="pubMedId" value="16381876"/>
-</item>
-
-<item id="48" class="" implements="Publication"> 
-    <attribute name="pubMedId" value="15892872"/> 
-</item>
-
-<item id="49" class="" implements="Publication">
-  <attribute name="pubMedId" value="14755292"/>
-</item>
-
-<item id="50" class="" implements="Publication">
-  <attribute name="pubMedId" value="31713623"/>
-</item>
-
-<item id="51" class="" implements="Publication"> 
-    <attribute name="pubMedId" value="30407599"/> 
-</item>
-
-<item id="52" class="" implements="Publication"> 
-    <attribute name="pubMedId" value="20052305"/> 
-</item>
-
-<item id="53" class="" implements="Publication"> 
+<item id="35" class="" implements="Publication"> 
     <attribute name="pubMedId" value="10802651"/> 
 </item>
 
-<item id="54" class="" implements="Publication"> 
-    <attribute name="pubMedId" value="30357405"/> 
+<item id="36" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="27899635"/> 
 </item>
+
+<item id="37" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="25589440"/> 
+</item>
+
+<item id="38" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="27799470"/> 
+</item>
+
+<item id="39" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="17994087"/> 
+</item>
+
+<item id="40" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="27899595"/> 
+</item>
+
+<item id="41" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="27899635"/> 
+</item>
+
+<item id="42" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="24234451"/> 
+</item>
+
+<item id="43" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="21179090"/> 
+</item>
+
+<item id="44" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="17720900"/> 
+</item>
+
+<item id="45" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="23193271"/> 
+</item>
+
+
+<item id="46" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="26935103"/> 
+</item>
+
+<item id="47" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="29590633"/> 
+</item>
+
+<item id="48" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="24139062"/> 
+</item>
+
+<item id="49" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="30304474"/> 
+</item>
+
+<item id="50" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="30407599"/> 
+</item>
+
+<item id="51" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="15892872"/> 
+</item>
+
+<item id="52" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="31642470"/> 
+</item>
+
+<item id="53" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="25428349"/> 
+</item>
+
+<item id="54" class="" implements="Publication"> 
+    <attribute name="pubMedId" value="24138933"/> 
+</item>
+
+<item id="55" class="" implements="Publication">
+     <attribute name="pubmed" value="30407599"/>
+</item>
+
+<item id="56" class="" implements="Publication">
+  <attribute name="pubMedId" value="31713623"/>
+</item>
+
+<item id="57" class="" implements="Publication">
+  <attribute name="pubMedId" value="14755292"/>
+</item>
+
+
 
 <item id="09" class="" implements="DataSource">
-    <attribute name="name" value="NCBI"/>
-    <attribute name="description" value="National Centre for Biotechnology Information"/>
-    <attribute name="url" value="https://www.ncbi.nlm.nih.gov"/>
+    <attribute name="name" value="FlyBase"/>
+    <attribute name="description" value="A Database of Drosophila Genes and Genomes"/>
+    <attribute name="url" value="http://flybase.org/"/>
 </item>
 
-<item id="10" class="" implements="DataSet">
-    <attribute name="name" value="ncbi-fasta"/>
-    <attribute name="description" value="Homo sapiens genome sequence: Release GRCh38 of the Homo sapiens genome sequence"/>
-    <attribute name="version" value="GRCh38.p13"/>
-    <attribute name="url" value="https://www.ncbi.nlm.nih.gov"/>
+<item id="6833" class="" implements="DataSet">
+    <attribute name="name" value="Disease models"/>
+    <attribute name="description" value="Experimental and predcted disease models: (i) all experimental-based disease model annotations, associated with alleles; and (ii) all 'potential' disease models based on orthology to human disease genes in OMIM for D. melanogaster"/>
+    <attribute name="version" value="October 2019"/>
+    <attribute name="url" value="http://flybase.org/"/>
     <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="46"/> 
+</item>
+
+
+<!--
+these aren't used. fasta dataset is set in project XML. features are loaded by chado
+<item id="10" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila melanogaster genome sequence"/>
+    <attribute name="description" value="Release 6 of the Drosophila melanogaster genome sequence"/>
+<attribute name="version" value="6.0"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="37"/> 
+    
 </item>
 
 <item id="14" class="" implements="DataSet">
-    <attribute name="name" value="ncbi-gff"/>
-    <attribute name="description" value="Homo sapiens genome annotation: released 7th June 2019"  />
-    <attribute name="version" value="109.20200228"/>
-    <attribute name="url" value="https://www.ncbi.nlm.nih.gov"/>
+    <attribute name="name" value="Drosophila melanogaster genome annotation"/>
+    <attribute name="description" value="Drosophila melanogaster genome annotation"/>
+<attribute name="version" value="6.21"/>
+    <attribute name="url" value="http://flybase.org/"/>
     <reference name="dataSource" ref_id="09"/>
-  </item>
+    <reference name="publication" ref_id="38"/> 
+    
+</item>
 
-  <item id="721" class="" implements="DataSet">
-    <attribute name="name" value="ncbi-gene"/>
-    <attribute name="description" value="Homo sapiens gene information: Additional Homo sapiens gene information from NCBI-Gene, released 7th June 2019"  />
-    <attribute name="version" value="109.20200228"/>
-    <attribute name="url" value="https://www.ncbi.nlm.nih.gov"/>
-    <reference name="dataSource" ref_id="09"/>
-  </item>
 
-    <item id="722" class="" implements="DataSet">
-    <attribute name="name" value="ncbi-summaries"/>
-    <attribute name="description" value="Homo sapiens gene summaries: text descriptions for gene functions from NCBI-Gene, released 7th June 2019"  />
-    <attribute name="version" value="109.20200228"/>
-    <attribute name="url" value="https://www.ncbi.nlm.nih.gov"/>
+<item id="684" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila ananassae genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila ananassae genome sequence and annotation (R1.05)"/>
+<attribute name="version" value="1.05"/>
+    <attribute name="url" value="http://flybase.org/"/>
     <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+
+<item id="685" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila erecta genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila erecta genome sequence and annotation (R1.05)"/>
+<attribute name="version" value="1.05"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+
+<item id="686" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila grimshawi genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila grimshawi genome sequence and annotation (R1.05)"/>
+<attribute name="version" value="1.05"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+
+<item id="687" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila mojavensis genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila mojavensis genome sequence and annotation (R1.05)"/>
+<attribute name="version" value="1.05"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+
+<item id="688" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila persimilis genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila persimilis genome sequence and annotation (R1.3)"/>
+<attribute name="version" value="1.3"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+
+<item id="689" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila pseudoobscura genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila pseudoobscura genome sequence and annotation (R3.04)"/>
+<attribute name="version" value="3.04"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+
+<item id="690" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila sechellia genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila sechellia genome sequence and annotation (R1.3)"/>
+<attribute name="version" value="1.3"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+
+<item id="691" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila simulans genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila simulans genome sequence and annotation (R2.02)"/>
+<attribute name="version" value="2.02"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+
+<item id="692" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila virilis genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila virilis genome sequence and annotation (R1.06)"/>
+<attribute name="version" value="1.06"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+
+<item id="693" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila willistoni genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila willistoni genome sequence and annotation (R1.05)"/>
+<attribute name="version" value="1.05"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+
+<item id="694" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila yakuba genome sequence and annotation"/>
+    <attribute name="description" value="Drosophila yakuba genome sequence and annotation (R1.05)"/>
+<attribute name="version" value="1.05"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
+</item>
+-->
+<item id="695" class="" implements="DataSet">
+    <attribute name="name" value="Drosophila species orthologues and paralogues"/>
+    <attribute name="description" value="Orthologues and paralogues between the 12 Drosophila species"/>
+   <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="39"/> 
+    
 </item>
 
 <item id="696" class="" implements="DataSource">
@@ -153,38 +313,29 @@
     <attribute name="url" value="http://pantherdb.org/"/>
 </item>
 
-<item id="695" class="" implements="DataSet">
-    <attribute name="name" value="panther"/>
-    <attribute name="description" value="Panther:Orthologue and Paralogue predictions between D. melanogaster,
-D. rerio, C. elegans, M. musculus, R. norvegicus, H. sapiens, S. cerevisiae from the Panther database"/>
-    <attribute name="version" value="15.0; April 2020"/>
+<item id="6950" class="" implements="DataSet">
+    <attribute name="name" value="Panther orthologue and paralogue predictions"/>
+    <attribute name="description" value="Orthologue and Paralogue predictions between D. melanogaster,D. rerio, C. elegans, M. musculus, R. norvegicus, H. sapiens, S. cerevisiae"/>
+    <attribute name="version" value="13.1"/>
     <attribute name="url" value="http://pantherdb.org/"/>
     <reference name="dataSource" ref_id="696"/>
-    <reference name="publication" ref_id="40"/>
+    <reference name="publication" ref_id="40"/> 
 </item>
 
 <item id="697" class="" implements="DataSource">
-    <attribute name="name" value="interpro"/>
-    <attribute name="description" value="InterPro: Protein sequence analysis: classification of families and prediction of domains and important sites"/>
+    <attribute name="name" value="InterPro"/>
+    <attribute name="description" value="Protein sequence analysis: classification of families and prediction of domains and important sites"/>
     <attribute name="url" value="https://www.ebi.ac.uk/interpro/"/>
 </item>
 
-<item id="724" class="" implements="DataSet">
-    <attribute name="name" value="interpro"/>
-    <attribute name="description" value="InterPro: Protein families and domains"/>
-    <attribute name="version" value="79.0; April 2020"/>
-    <attribute name="url" value="https://www.ebi.ac.uk/interpro/"/>
-    <reference name="dataSource" ref_id="697"/>
-    <reference name="publication" ref_id="41"/>
-</item>
 
 <item id="6980" class="" implements="DataSet">
-    <attribute name="name" value="protein2ipr"/>
-    <attribute name="description" value="InterPro protein matches: Protein family and domain assignments to Homo sapiens proteins"/>
-    <attribute name="version" value="79.0; April 2020"/>
+    <attribute name="name" value="InterPro data set" />
+    <attribute name="description" value="Protein family and domain assignments to D. melanogaster proteins"/>
+    <attribute name="version" value="68.0"/>
     <attribute name="url" value="https://www.ebi.ac.uk/interpro/"/>
     <reference name="dataSource" ref_id="697"/>
-    <reference name="publication" ref_id="41"/>
+    <reference name="publication" ref_id="41"/> 
 </item>
 
 <item id="698" class="" implements="DataSource">
@@ -194,308 +345,471 @@ D. rerio, C. elegans, M. musculus, R. norvegicus, H. sapiens, S. cerevisiae from
 </item>
 
 <item id="699" class="" implements="DataSet">
-    <attribute name="name" value="psi-intact"/>
-    <attribute name="description" value="IntAct molecular interactions: Molecular interactions for Homo sapiens and Mus musculus from the IntAct database"/>
-    <attribute name="version" value="April 2020"/>
+    <attribute name="name" value="IntAct molecular interactions"/>
+    <attribute name="description" value="Molecular interactions for Drosophila melanogaster"/>
+    <attribute name="version" value="4.2.12"/>
     <attribute name="url" value="https://www.ebi.ac.uk/intact/"/>
     <reference name="dataSource" ref_id="698"/>
-    <reference name="publication" ref_id="42"/>
+    <reference name="publication" ref_id="42"/> 
 </item>
 
+<!--
 
-<item id="730" class="" implements="DataSource">
-    <attribute name="name" value="Complex Portal"/>
-    <attribute name="description" value="Manually curated, encyclopaedic resource of macromolecular complexes"/>
-    <attribute name="url" value="https://www.ebi.ac.uk/complexportal/home"/>
+I don't know which data sets these are supposed to match
+<item id="700" class="" implements="DataSet">
+    <attribute name="name" value="Enhancers"/>
+    <attribute name="description" value="D. melanogaster enhancers from the FlyBase database"/>
+<attribute name="version" value="FB2018_02"/>
+<attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="38"/> 
+    
+</item>
+-->
+<item id="701" class="" implements="DataSet">
+    <attribute name="name" value="Alleles and phenotypes"/>
+    <attribute name="description" value="D. melanogaster alleles and phenotypes from the FlyBase database"/>
+    <attribute name="version" value="FB2019_06"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="38"/> 
+    
 </item>
 
+<item id="702" class="" implements="DataSet">
+    <attribute name="name" value="Artificial deletions"/>
+    <attribute name="description" value="Artificial deletions from FlyBase"/>
+    <attribute name="version" value="FB2019_06"/>
+    <attribute name="url" value="http://www.flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="44"/> 
+    
+</item>
+<!--
 
-<item id="731" class="" implements="DataSet">
-    <attribute name="name" value="psi-complexes"/>
-    <attribute name="description" value="Macromolecular complexes: Macromolecular complexes for Homo sapiens from the EBI complex portal"/>
-    <attribute name="version" value="232: April 2020"/>
-    <attribute name="url" value="https://www.ebi.ac.uk/complexportal/home"/>
-    <reference name="dataSource" ref_id="730"/>
-    <reference name="publication" ref_id="54"/>
+<item id="7020" class="" implements="DataSet">
+    <attribute name="name" value="Insertions"/>
+    <attribute name="description" value="Insertion data from FlyBase (including DrosDel and Exelixis)"/>
+<attribute name="version" value="FB2018_02"/>
+<attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="38"/> 
+    
 </item>
 
+-->
+
+<item id="703" class="" implements="DataSet">
+    <attribute name="name" value="The developmental transcriptome of Drosophila melanogaster."/>
+    <attribute name="description" value="The developmental transcriptome of Drosophila melanogaster. RNA-seq data from the modENCODE project"/>
+    <attribute name="version" value="FB2019_06"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="43"/> 
+</item>
+
+<item id="704" class="" implements="DataSource">
+    <attribute name="name" value="GenomeRNAi"/>
+    <attribute name="description" value="Phenotypes from RNA interference (RNAi) screens in D. melanogaster"/>
+    <attribute name="url" value="http://www.genomernai.org/"/>
+</item>
+
+<item id="705" class="" implements="DataSet">
+    <attribute name="name" value="RNAi screen phenotypes"/>
+    <attribute name="description" value="Phenotypes from RNA interference (RNAi) screens in D. melanogaster"/>
+    <attribute name="version" value="17"/>
+    <attribute name="url" value="http://www.genomernai.org/"/>
+    <reference name="dataSource" ref_id="704"/>
+    <reference name="publication" ref_id="45"/> 
+</item>
 
 <item id="706" class="" implements="DataSource">
     <attribute name="name" value="OMIM"/>
     <attribute name="description" value="Online Mendelian Inheritance in Man: A Catalog of Human Genes and Genetic Disorders"/>
-    <attribute name="url" value="https://www.omim.org/"/>
+     <attribute name="url" value="https://www.omim.org/"/>
 </item>
 
 <item id="707" class="" implements="DataSet">
-    <attribute name="name" value="omim"/>
-    <attribute name="description" value="OMIM diseases: Human disease data from OMIM mapped to genes"/>
-    <attribute name="version" value="April 2020"/>
-    <attribute name="url" value="https://www.omim.org/"/>
+    <attribute name="name" value="OMIM diseases"/>
+    <attribute name="description" value="Disease-Gene mappings from OMIM: Online Mendelian Inheritance in Man: Catalog of Human Genes and Genetic Disorders"/>
+    <attribute name="version" value="April 2019"/>
+<attribute name="url" value="https://www.omim.org/"/>
     <reference name="dataSource" ref_id="706"/>
+    
 </item>
 
 <item id="13" class="" implements="DataSource">
-    <attribute name="name" value="UniProt"/>
-    <attribute name="description" value="Uniprot Protein Knowledgebase"/>
+    <attribute name="name" value="Uniprot"/>
+    <attribute name="description" value="Uniprot Protein Knowledgebase: a database of protein sequence and functional information "/>
     <attribute name="url" value="http://www.uniprot.org/"/>
 </item>
 
 <item id="11" class="" implements="DataSet">
-    <attribute name="name" value="uniprot"/>
-    <attribute name="description" value="UniProt: Swiss-prot and TrEMBL: Swiss-prot:high-quality, manually annotated, non-redundant protein sequences; TrEMBL: Computationally analysed records, enriched with automatic annotation"/>
-    <attribute name="version" value="2020_02"/>
+    <attribute name="name" value="Uniprot data set"/>
+    <attribute name="description" value="Uniprot - Swiss-prot and TrEMBL: Swiss-prot:high-quality, manually annotated, non-redundant protein sequences; TrEMBL: Computationally analysed records, enriched with automatic annotation"/>
+<attribute name="version" value="2019_11"/>
     <attribute name="url" value="http://www.uniprot.org/"/>
     <reference name="dataSource" ref_id="13"/>
     <reference name="publication" ref_id="20"/>
+</item>
+    
+    
+
+<item id="100" class="" implements="DataSource">
+    <attribute name="name" value="INDAC"/>
+    <attribute name="description" value="International Drosophila Array Consortium (now disbanded)"/>
+    <attribute name="url" value="http://www.indac.net/"/>
 </item>
 
-<item id="723" class="" implements="DataSet">
-    <attribute name="name" value="uniprot-keywords"/>
-    <attribute name="description" value="UniProt keywords: a controlled vocabulary for UniProt data"/>
-    <attribute name="version" value="2020_02"/>
-    <attribute name="url" value="http://www.uniprot.org/"/>
-    <reference name="dataSource" ref_id="13"/>
-    <reference name="publication" ref_id="20"/>
+<item id="101" class="" implements="DataSet">
+    <attribute name="name" value="INDAC long oligo data set"/>
+    <attribute name="description" value="International Drosophila Array Consortium long oligo data set"/>
+    <attribute name="version" value="1.0"/>
+    <attribute name="url" value="http://www.indac.net/"/>
+    <reference name="dataSource" ref_id="100"/>
 </item>
 
-<item id="723" class="" implements="DataSet">
-    <attribute name="name" value="uniprot"/>
-    <attribute name="description" value="UniProt protein sequences: Protein sequences from UniProt"/>
-    <attribute name="version" value="2020_02"/>
-    <attribute name="url" value="http://www.uniprot.org/"/>
-    <reference name="dataSource" ref_id="13"/>
-    <reference name="publication" ref_id="20"/>
-</item>
 
 <item id="112" class="" implements="DataSource">
-    <attribute name="name" value="ArrayExpress"/>
-    <attribute name="description" value="Array Express - functional genomics data"/>
+    <attribute name="name" value="Array Express"/>
+    <attribute name="description" value="Array Express - functional genomics data from high-throughput functional genomics experiments"/>
     <attribute name="url" value="http://www.ebi.ac.uk/arrayexpress/"/>
 </item>
 
-<item id="1620" class="" implements="DataSet">
-    <attribute name="name" value="arrayexpress-atlas"/>
-    <attribute name="description" value="E-MTAB-62: Human gene expression atlas of 5372 samples representing 369 different cell and tissue types, disease states and cell lines"/>
-    <attribute name="version" value="June 2011"/>
-    <attribute name="url" value="https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-62/"/>
+<item id="162" class="" implements="DataSet">
+    <attribute name="name" value="E-FLYC-6"/>
+    <attribute name="description" value="Transcription profiling of Drosophila developmental time course"/>
+    <attribute name="url" value="http://www.ebi.ac.uk/microarray-as/ae/browse.html?keywords=E-FLYC-6"/>
     <reference name="dataSource" ref_id="112"/>
-    <reference name="publication" ref_id="22"/>
+    <reference name="publication" ref_id="22"/> 
 </item>
 
-<item id="162" class="" implements="DataSet">
-    <attribute name="name" value="atlas-express"/>
-    <attribute name="description" value="Illumina Body Map: RNA-Seq of human individual tissues and mixture of 16 tissues (Illumina Body Map: E-MTAB-513)"/>
-    <attribute name="url" value="https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-513/"/>
-    <attribute name="version" value="July 2014"/>
-    <reference name="dataSource" ref_id="112"/>
+<item id="114" class="" implements="DataSource">
+    <attribute name="name" value="Affymetrix"/>
+    <attribute name="description" value="Affymetrix: an American company that manufactured DNA microarrays"/>
+    <attribute name="url" value="http://www.affymetrix.com"/>
+</item>
+
+<item id="621" class="" implements="DataSet">
+    <attribute name="name" value="Affymetrix array: GeneChip Drosophila Genome 2.0 Array"/>
+    <attribute name="description" value="The GeneChipÂ® Drosophila Genome Array is a microarray tool for studying expression of Drosophila melanogaster transcripts."/>
+<attribute name="version" value="2.0"/>
+    <attribute name="url" value="http://www.affymetrix.com/products/arrays/specific/fly.affx"/>
+    <reference name="dataSource" ref_id="114"/>
+</item>
+
+<item id="622" class="" implements="DataSet">
+    <attribute name="name" value="Affymetrix array: GeneChip Drosophila Genome Array"/>
+    <attribute name="description" value="The GeneChipÂ® Drosophila Genome Array is a microarray tool for studying expression of Drosophila melanogaster transcripts."/>
+<attribute name="version" value="1.0"/>
+    <attribute name="url" value="http://www.affymetrix.com/products/arrays/specific/fly_2.affx"/>
+    <reference name="dataSource" ref_id="114"/>
+</item>
+
+
+<item id="450" class="" implements="DataSource">
+    <attribute name="name" value="REDfly"/>
+    <attribute name="description" value="Regulatory element database for Drosophila: a curated collection of known Drosophila transcriptional cis-regulatory modules (CRMs) and transcription factor binding sites (TFBSs)"/>
+    <attribute name="url" value="http://redfly.ccr.buffalo.edu/"/>
+      </item>
+
+<item id="451" class="" implements="DataSet">
+    <attribute name="name" value="REDfly Drosophila transcriptional cis-regulatory modules"/>
+    <attribute name="description" value="cis-regulatory modules (CRMs) from the REDfly database"/>
+    <attribute name="version" value="6.0; January 2020"/>
+    <attribute name="url" value="http://redfly.ccr.buffalo.edu/?content=/search.php"/>
+    <reference name="dataSource" ref_id="450"/>
+    <reference name="publication" ref_id="24"/> 
+</item>
+
+<item id="452" class="" implements="DataSet">
+    <attribute name="name" value="REDfly Drosophila transcription factor binding sites"/>
+    <attribute name="description" value="Transcription factor binding sites (TFBS) from the REDfly database"/>
+    <attribute name="version" value="6.0; January 2020"/>
+    <attribute name="url" value="http://redfly.ccr.buffalo.edu/?content=/search.php"/>
+    <reference name="dataSource" ref_id="450"/>
+    <reference name="publication" ref_id="24"/> 
+</item>
+
+<!--
+
+<item id="661" class="" implements="DataSet">
+  <attribute name="name" value="FlyReg data set"/>
+  <attribute name="description" value="A non-redundant set of high quality curated binding site information for transcription factors and target genes and empirically validated cis-regulatory modules and their constituent binding sites "/>
+    <attribute name="url" value="http://www.flyreg.org"/>
+    <reference name="dataSource" ref_id="450"/>
+    <reference name="publication" ref_id="33"/>
+    </item>
+
+-->
+
+<item id="115" class="" implements="DataSource">
+    <attribute name="name" value="microRNA Targets"/>
+    <attribute name="description" value="MicroRNA.org - Predicted microRNA targets: Identification of potential microRNA targets by using the miRanda software (Computational Biology Center of Memorial Sloan-Kettering Cancer Center)"/>
+    <attribute name="url" value="http://www.microrna.org/microrna/home.do"/>
+</item>
+
+<item id="471" class="" implements="DataSet">
+    <attribute name="name" value="microRNA Targets"/>
+    <attribute name="description" value="Predicted microRNA targets for Drosophila melanogaster"/>
+    <attribute name="version" value="5.0"/>
+    <attribute name="url" value="http://www.microrna.org/microrna/home.do"/>
+    <reference name="dataSource" ref_id="115"/>
+    <reference name="publication" ref_id="25"/>
+</item>
+
+<item id="480" class="" implements="DataSource">
+    <attribute name="name" value="fly-FISH"/>
+    <attribute name="description" value="A database of Drosophila embryo mRNA localization patterns"/>
+    <attribute name="url" value="http://fly-fish.ccbr.utoronto.ca"/>
+</item>
+
+
+<item id="481" class="" implements="DataSet">
+    <attribute name="name" value="fly-Fish data set"/>
+    <attribute name="description" value="fly-Fish data set of Drosophila embryo mRNA localization patterns"/>
+    <attribute name="version" value="n/a"/>
+    <attribute name="url" value="http://fly-fish.ccbr.utoronto.ca"/>
+    <reference name="dataSource" ref_id="480"/>
+    <reference name="publication" ref_id="26"/>
 </item>
 
 <item id="490" class="" implements="DataSource">
     <attribute name="name" value="GenomeNet"/>
-    <attribute name="description" value="Network of database and computational services for genome research and related research areas in biomedical sciences, operated by the Kyoto University Bioinformatics Center. "/>
+    <attribute name="description" value="Network of database and computational services for genome research and related research areas in biomedical sciences, operated by the Kyoto University Bioinformatics Center."/>
     <attribute name="url" value="http://www.genome.jp/en/"/>
 </item>
 
-<!-- don't change data set name. this exact name is used to filter pathways on an analysis tool -->
 <item id="491" class="" implements="DataSet">
-    <attribute name="name" value="kegg-pathway"/>
-    <attribute name="description" value="KEGG pathways: Manually drawn pathway maps representing our knowledge on the molecular interaction and reaction networks for Homo sapiens and Mus musculus"/>
+    <attribute name="name" value="KEGG pathways data set"/>
+    <attribute name="description" value="Manually drawn pathway maps representing our knowledge on the molecular interaction and reaction networks for Drosophila"/>
     <attribute name="url" value="http://www.genome.jp/kegg/pathway.html"/>
-    <attribute name="version" value="58; May 2011"/>
+<attribute name="version" value="58"/>
     <reference name="dataSource" ref_id="490"/>
     <reference name="publication" ref_id="27"/>
 </item>
 
 <item id="117" class="" implements="DataSource">
     <attribute name="name" value="Reactome"/>
-    <attribute name="description" value="Reactome: an open source relational database of signaling and metabolic molecules and their relations organized into biological pathways and processes"/>
+    <attribute name="description" value="Reactome: an open source relational database of signaling and metabolic molecules and their relations organized into biological pathways and processes "/>
     <attribute name="url" value="http://www.reactome.org/"/>
 </item>
 
-<!-- don't change data set name. this exact name is used to filter pathways on an analysis tool -->
+
 <item id="552" class="" implements="DataSet">
-    <attribute name="name" value="reactome"/>
-    <attribute name="description" value="Reactome pathways: pathway data for Homo sapiens and Mus musculus from the Reactome database"/>
-    <attribute name="version" value="72; April 2020"/>
+    <attribute name="name" value="Reactome pathways data set"/>
+    <attribute name="description" value="Pathway information and the genes involved in them, inferred through orthologues from Human curated pathways"/>
+<attribute name="version" value="71; December 2019"/>
     <attribute name="url" value="http://www.reactome.org"/>
     <reference name="dataSource" ref_id="117"/>
     <reference name="publication" ref_id="29"/>
 </item>
 
+<item id="600" class="" implements="DataSource">
+  <attribute name="name" value="FlyAtlas"/>
+  <attribute name="description" value="Affymetrix microarray-based atlas of gene expression in larval and adult D. melanogaster tissues"/>
+    <attribute name="url" value="http://www.flyatlas.org/"/>
+</item>
+
+<item id="601" class="" implements="DataSet">
+    <attribute name="name" value="FlyAtlas"/>
+    <attribute name="description" value="Affymetrix microarray-based atlas of gene expression in larval and adult D. melanogaster tissues"/>
+    <attribute name="version" value="1.0"/>
+    <attribute name="url" value="http://www.flyatlas.org/"/>
+    <reference name="dataSource" ref_id="600"/>
+    <reference name="publication" ref_id="30"/>
+</item>
+
+<item id="610" class="" implements="DataSource">
+    <attribute name="name" value="BDGP"/>
+    <attribute name="description" value="Berkeley Drosophila Genome Project: a consortium of the Drosophila Genome Center "/>
+    <attribute name="url" value="http://www.fruitfly.org/"/>
+</item>
+
+<item id="611" class="" implements="DataSet">
+    <attribute name="name" value="BDGP in situ data set"/>
+    <attribute name="description" value="Patterns of gene expression in Drosophila embryogenesis by RNA in situ"/>
+    <attribute name="version" value="3.0"/>
+    <attribute name="url" value="http://www.fruitfly.org/cgi-bin/ex/insitu.pl"/>
+    <reference name="dataSource" ref_id="610"/>
+    <reference name="publication" ref_id="31"/>
+</item>
+
+<item id="612" class="" implements="DataSet">
+  <attribute name="name" value="BDGP cDNA clone data set"/>
+  <attribute name="description" value="DGC release 2.0 cDNA clones for Drosophila melanogaster"/>
+  <attribute name="url" value="http://www.fruitfly.org/DGC/index.html"/>
+  <attribute name="version" value="2.0"/>
+    <reference name="dataSource" ref_id="610"/>
+    <reference name="publication" ref_id="31"/>
+</item>
+
 <item id="630" class="" implements="DataSource">
-    <attribute name="name" value="BioGRID"/>
-    <attribute name="description" value="Biological General Repository for interaction datasets"/>
+    <attribute name="name" value="BioGRIDs"/>
+    <attribute name="description" value="Curated general repository for interaction datasets"/>
     <attribute name="url" value="http://www.thebiogrid.org/"/>
 </item>
 
 <item id="631" class="" implements="DataSet">
-    <attribute name="name" value="biogrid"/>
-    <attribute name="description" value="BioGRID interactions: Curated genetic and physical interaction data for Homo sapiens and Mus musculus fromt he BioGRID database"/>
-    <attribute name="version" value="3.5.185; April 2020"/>
+    <attribute name="description" value="Curated genetic and physical interaction data for Drosophila melanogaster and Saccharomyces cerevisiae"/>
+    <attribute name="name" value="BioGRID interaction data set"/>
+<attribute name="version" value="3.5.181"/>
     <attribute name="url" value="http://www.thebiogrid.org/downloads.php"/>
     <reference name="dataSource" ref_id="630"/>
     <reference name="publication" ref_id="32"/>
 </item>
 
+<item id="640" class="" implements="DataSource">
+    <attribute name="name" value="NCBI"/>
+    <attribute name="description" value="NCBI: The National Center for Biotechnology Information"/>
+    <attribute name="url" value="http://www.ncbi.nlm.nih.gov/"/>
+</item>
+
 <item id="641" class="" implements="DataSet">
-    <attribute name="name" value="pubmed-gene"/>
-    <attribute name="description" value="PubMed to gene mapping: Mappings of genes found in pubmed abstracts to genes"/>
-    <attribute name="version" value="April 2020"/>
+    <attribute name="name" value="NCBI PubMed to gene mapping"/>
+    <attribute name="description" value="Mappings of genes found in pubmed abstracts to genes"/>
+    <attribute name="version" value="2020-01-21"/>
     <attribute name="url" value="ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/"/>
+    <reference name="dataSource" ref_id="640"/>
+</item>
+
+<item id="642" class="" implements="DataSet">
+    <attribute name="name" value="FlyBase PubMed to gene mapping"/>
+    <attribute name="description" value="Mappings of genes found in pubmed abstracts to genes"/>
+    <attribute name="version" value="FB2019_06"/>
+    <attribute name="url" value="http://flybase.org"/>
     <reference name="dataSource" ref_id="09"/>
+</item>
+
+<item id="6952" class="" implements="DataSet">
+    <attribute name="name" value="HomoloGene homology predictions"/>
+    <attribute name="description" value="Orthology/parology predictions for D. melanogaster, C. elegans, M. musculus, R. norvegicus, H. sapiens and S. cerevisiae "/>
+<attribute name="version" value="2020-01-21"/>
+    <attribute name="url" value="https://www.ncbi.nlm.nih.gov/homologene"/>
+    <reference name="dataSource" ref_id="640"/>
+    <reference name="publication" ref_id="26615191"/>
+</item>
+    
+
+ <item id="670" class="" implements="DataSource">
+   <attribute name="name" value="TreeFam"/>
+   <attribute name="description" value="A database composed of phylogenetic trees inferred from animal genomes"/>
+    <attribute name="url" value="http://www.treefam.org"/>
+</item>
+
+<item id="671" class="" implements="DataSet">
+    <attribute name="name" value="TreeFam data set"/>
+    <attribute name="description" value="Orthology/parology predictions for D. melanogaster, D. rerio, C. elegans, M. musculus, R. norvegicus, H. sapiens and S. cerevisiae "/>
+<attribute name="version" value="9.0"/>
+    <attribute name="url" value="http://www.treefam.org/cgi-bin/misc_page.pl?download"/>
+    <reference name="dataSource" ref_id="670"/>
+    <reference name="publication" ref_id="34"/>
+</item>
+
+ <item id="680" class="" implements="DataSource">
+   <attribute name="name" value="The Gene Ontology Consortium"/>
+    <attribute name="description" value="Ontology to describe the function of genes and gene products"/>
+    <attribute name="url" value="http://www.geneontology.org/"/>
+</item>
+
+
+<item id="681" class="" implements="DataSet">
+    <attribute name="name" value="The Gene Ontology"/>
+    <attribute name="description" value="The Gene Ontology: Ontology describing the function of genes and gene products"/>
+    <attribute name="version" value="2020-01-21"/>
+    <attribute name="url" value="http://www.geneontology.org/"/>
+    <reference name="dataSource" ref_id="680"/>
+    <reference name="publication" ref_id="35"/>
+</item>
+
+
+<item id="6811" class="" implements="DataSet">
+    <attribute name="name" value="GO Annotation for Drosophila melanogaster"/>
+    <attribute name="description" value="Curated gene ontology annotations from FlyBase"/>
+    <attribute name="version" value="2020-01-01"/>
+    <attribute name="url" value="http://current.geneontology.org/annotations/index.html"/>
+    <reference name="dataSource" ref_id="680"/>
+    <reference name="publication" ref_id="35"/>
 </item>
 
 <item id="682" class="" implements="DataSet">
-    <attribute name="name" value="interpro-go"/>
-    <attribute name="description" value="InterPro GO annotation: Curated GO annotations for InterPro protein domains"/>
-    <attribute name="version" value="79.0; April 2020"/>
-    <reference name="dataSource" ref_id="697"/>
-    <reference name ="publication" ref_id="36"/>
+    <attribute name="name" value="InterPro domain GO annotations"/>
+ <attribute name="description" value="Curated GO annotations for InterPro protein domains"/>
+    <reference name="dataSource" ref_id="680"/>
+    <reference name="publication" ref_id="36"/>
 </item>
 
-<item id="683" class="" implements="DataSource">
-    <attribute name="name" value="GWAS catalog"/>
-    <attribute name="url" value="https://www.ebi.ac.uk/gwas/"/>
+ <item id="687" class="" implements="DataSource">
+   <attribute name="name" value="The Disease Ontology"/>
+   <attribute name="description" value="A standardized ontology for human disease providing consistent, reusable and sustainable descriptions of human disease terms, phenotype characteristics and related medical vocabulary disease concepts"/>
+   <attribute name="url" value="http://disease-ontology.org/"/>
 </item>
 
-<item id="6820" class="" implements="DataSet">
-    <attribute name="name" value="huge-gwas"/>
-    <attribute name="description" value="The GWAS catalog: The NHGRI-EBI catalog of published genome-wide association studies"/>
-    <attribute name="version" value="1.0; April 2020"/>
-    <reference name="dataSource" ref_id="683"/>
-    <reference name ="publication" ref_id="37"/>
+
+<item id="683" class="" implements="DataSet">
+    <attribute name="name" value="Disease Ontology"/>
+    <attribute name="description" value="A standardized ontology for human disease providing consistent, reusable and sustainable descriptions of human disease terms, phenotype characteristics and related medical vocabulary disease concepts"/>
+<attribute name="version" value="2019-12-12"/>
+    <attribute name="url" value="http://disease-ontology.org/"/>
+    <reference name="dataSource" ref_id="687"/>
+    <reference name="publication" ref_id="47"/>
 </item>
 
-<item id="684" class="" implements="DataSource">
-    <attribute name="name" value="The Human Protein Atlas"/>
-    <attribute name="url" value="https://www.proteinatlas.org/"/>
+<item id="684" class="" implements="DataSet">
+    <attribute name="name" value="Fly Anatomy Ontology"/>
+    <attribute name="description" value="A structured controlled vocabulary of the anatomy of Drosophila melanogaster"/>
+<attribute name="version" value="2019-09-05"/>
+    <attribute name="url" value="https://flybase.org/vocabularies/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="48"/>
 </item>
 
 <item id="685" class="" implements="DataSet">
-    <attribute name="name" value="protein-atlas"/>
-    <attribute name="description" value="The Human Protein Atlas tissue protein expression data: Expression profiles for proteins in 44 human tissues from antibody-based protein profiling using immunohistochemistry."/>
-    <attribute name="version" value="19.3; April 2020"/>
-    <reference name="dataSource" ref_id="683"/>
-    <reference name ="publication" ref_id="38"/>
-</item>
-
-<item id="721" class="" implements="DataSet">
-    <attribute name="name" value="protein-atlas-rna"/>
-    <attribute name="description" value="The Human Protein Atlas tissue mRNA expression data: mRNA expression profiles (RNA-seq) for genes in 37 human tissues."/>
-    <attribute name="version" value="19.3; April 2020"/>
-    <reference name="dataSource" ref_id="683"/>
-    <reference name ="publication" ref_id="38"/>
-</item>
-
-
-<item id="686" class="" implements="DataSource">
-    <attribute name="name" value="GTEx portal"/>
-    <attribute name="url" value="https://www.gtexportal.org/home/"/>
-</item>
-
-<item id="687" class="" implements="DataSet">
-    <attribute name="name" value="gtex"/>
-    <attribute name="description" value="GTEx Single-tissue cis-eQTL Data: eGene and significant variant-gene associations based on permutations."/>
-    <attribute name="version" value="8; July 2019"/>
-    <reference name="dataSource" ref_id="686"/>
-    <reference name ="publication" ref_id="39"/>
-</item>
-
-<item id="688" class="" implements="DataSet">
-    <attribute name="name" value="GTEx RNA-Seq Data"/>
-    <attribute name="description" value="Median TPM by tissue."/>
-    <attribute name="version" value="8; July 2019"/>
-    <reference name="dataSource" ref_id="686"/>
-    <reference name ="publication" ref_id="39"/>
-</item>
-
-<item id="689" class="" implements="DataSource">
-    <attribute name="name" value="Human Phenotype Ontology"/>
-    <attribute name="url" value="https://hpo.jax.org/app/"/>
-</item>
-
-<item id="734" class="" implements="DataSet">
-    <attribute name="name" value="hpo"/>
-    <attribute name="description" value="The Human Phenotype Ontology: standardized vocabulary of phenotypic abnormalities encountered in human disease"/>
-    <attribute name="version" value="April 2020"/>
-    <reference name="dataSource" ref_id="689"/>
-    <reference name ="publication" ref_id="43"/>
-</item>
-
-<item id="690" class="" implements="DataSet">
-    <attribute name="name" value="hpo-annotation"/>
-    <attribute name="description" value="Human Phenotype Ontology annotations: Manual and semi-automated annotations created by the HPO-team"/>
-    <attribute name="version" value="April 2020"/>
-    <reference name="dataSource" ref_id="689"/>
-    <reference name ="publication" ref_id="43"/>
-</item>
-
-
-<item id="701" class="" implements="DataSet">
-    <attribute name="name" value="clinvar"/>
-    <attribute name="description" value="ClinVar: a freely accessible, public archive of reports of the relationships among human variations and phenotypes, with supporting evidence."/>
-    <attribute name="version" value="April 2020"/>
-    <attribute name="url" value="https://www.ncbi.nlm.nih.gov/clinvar/"/>
+    <attribute name="name" value="Fly Development Ontology"/>
+    <attribute name="description" value="A structured controlled vocabulary of the development of Drosophila melanogaster"/>
+    <attribute name="version" value="2019-10-21"/>
+    <attribute name="url" value="https://flybase.org/vocabularies/"/>
     <reference name="dataSource" ref_id="09"/>
-    <reference name ="publication" ref_id="45"/>
+    <reference name="publication" ref_id="48"/>
 </item>
 
-<item id="702" class="" implements="DataSource">
-  <attribute name="name" value="The Gene Ontology Consortium"/>
-  <attribute name="url" value="http://geneontology.org/"/>
-  <attribute name="description" value="Ontology to describe the function of genes and gene products"/>
+<item id="686" class="" implements="DataSet">
+    <attribute name="name" value="FlyBase Contolled Vocabulary"/>
+    <attribute name="description" value="A structured controlled vocabulary used for the annotation of various objects in FlyBase, including publications (by their type), alleles (for their mutagen etc) and phenotypic class."/>
+<attribute name="version" value="2019-07-11"/>
+    <attribute name="url" value="https://flybase.org/vocabularies/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="54"/>
 </item>
 
-<item id="703" class="" implements="DataSet">
-  <attribute name="name" value="go-annotation"/>
-  <attribute name="description" value="Gene Ontology Annotations for human and mouse: Curated gene ontology annotations for Homo sapiens and Mus musculus"/>
-  <attribute name="version" value="April 2020"/>
-  <reference name="dataSource" ref_id="702"/>
-  <reference name ="publication" ref_id="44"/>
+ <item id="688" class="" implements="DataSource">
+   <attribute name="name" value="HGNC"/>
+       <attribute name="description" value="HUGO gene nomenclature committee: The resource for approved human gene nomenclature"/>
+    <attribute name="url" value="The HUGO Gene Nomenclature Committee"/>
 </item>
 
-<item id="704" class="" implements="DataSource">
-  <attribute name="name" value="Wormbase"/>
-  <attribute name="url" value="https://wormbase.org/"/>
-  <attribute name="description" value="Wormbase: An information resource for the genetics, genomics and biology of C. elegans and related nematodes"/>
+<item id="689" class="" implements="DataSet">
+    <attribute name="name" value="HGNC identifiers"/>
+    <attribute name="description" value="HUGO gene nomenclature committee: Approved identifiers for Human genes"/>
+<attribute name="version" value="2020-01-08"/>
+    <attribute name="url" value="https://www.genenames.org/"/>
+    <reference name="dataSource" ref_id="688"/>
+    <reference name="publication" ref_id="49"/>
 </item>
 
-<item id="705" class="" implements="DataSet">
-  <attribute name="name" value="Wormbase gene identifiers"/>
-  <attribute name="description" value="Caenorhabditis elegans gene identifiers from wormbase"/>
-  <attribute name="version" value="WS276"/>
-  <reference name="dataSource" ref_id="704"/>
-  <reference name ="publication" ref_id="46"/>
-</item>
-
-<item id="706" class="" implements="DataSource">
-  <attribute name="name" value="HGNC"/>
-  <attribute name="url" value="https://www.genenames.org/"/>
-  <attribute name="description" value="HUGO gene nomenclature committee: The resource for approved human gene nomenclature"/>
-</item>
-
-<item id="707" class="" implements="DataSet">
-  <attribute name="name" value="hgnc"/>
-  <attribute name="description" value="HGNC identifiers: HUGO gene nomenclature committee: Approved identifiers for Human genes"/>
-  <attribute name="version" value="April 2020"/>
-  <reference name="dataSource" ref_id="706"/>
-  <reference name ="publication" ref_id="47"/>
-</item>
-
-
-<item id="708" class="" implements="DataSet">
-    <attribute name="name" value="go"/>
-    <attribute name="description" value="The Gene Ontology: Ontology describing the function of genes and gene products"/>
-    <attribute name="version" value="April 2020"/>
-    <attribute name="url" value="http://www.geneontology.org/"/>
-    <reference name="dataSource" ref_id="703"/>
-    <reference name="publication" ref_id="44"/>
-</item>
-
- <item id="709" class="" implements="DataSource">
+ <item id="708" class="" implements="DataSource">
    <attribute name="name" value="The Mouse genome database (MGD) from Mouse Genome Informatics (MGI)"/>
        <attribute name="description" value="The Mouse genome database (MGD) from Mouse Genome Informatics (MGI)"/>
        <attribute name="url" value="http://www.informatics.jax.org/"/>
+</item>
+
+<item id="709" class="" implements="DataSet">
+    <attribute name="name" value="Mouse identifiers"/>
+    <attribute name="description" value="Approved identifiers for Mouse genes from the Mouse Genome Database"/>
+<attribute name="version" value="6.14"/>
+    <attribute name="url" value="http://www.informatics.jax.org/"/>
+    <reference name="dataSource" ref_id="708"/>
+    <reference name="publication" ref_id="50"/>
 </item>
 
  <item id="710" class="" implements="DataSource">
@@ -505,27 +819,51 @@ D. rerio, C. elegans, M. musculus, R. norvegicus, H. sapiens, S. cerevisiae from
 </item>
 
 <item id="711" class="" implements="DataSet">
-    <attribute name="name" value="so"/>
+    <attribute name="name" value="The Sequence Ontology"/>
     <attribute name="description" value="The Sequence Ontology: a set of terms and relationships used to describe the features and attributes of biological sequence"/>
-<attribute name="version" value="April 2020"/>
+<attribute name="version" value="2019-10-30"/>
     <attribute name="url" value="http://www.sequenceontology.org/"/>
     <reference name="dataSource" ref_id="710"/>
-    <reference name="publication" ref_id="48"/>
+    <reference name="publication" ref_id="51"/>
 </item>
 
-<item id="712" class="" implements="DataSource">
-  <attribute name="name" value="HUPO Proteomics Standards Initiative"/>
-  <attribute name="description" value="Community standards for data representation in proteomics"/>
-  <attribute name="url" value="http://www.psidev.info/"/>
+ <item id="712" class="" implements="DataSource">
+    <attribute name="name" value="wormbase"/>
+    <attribute name="description" value="Wormbase: An information resource for the genetics, genomics and biology of C. elegans and related nematodes"/>
+    <attribute name="url" value="https://wormbase.org/"/>
 </item>
 
 <item id="713" class="" implements="DataSet">
-  <attribute name="name" value="psi-mi-ontology"/>
-  <attribute name="description" value="PSI Molecular Interactions CV:  A controlled vocabulary for describing molecular interactions"/>
-  <attribute name="version" value="April 2020"/>
-  <attribute name="url" value="https://www.ebi.ac.uk/ols/ontologies/mi/"/>
-  <reference name="dataSource" ref_id="712"/>
-  <reference name="publication" ref_id="49"/>
+    <attribute name="name" value="Wormbase gene identifiers"/>
+    <attribute name="description" value="Caenorhabditis elegans gene identifiers from wormbase"/>
+    <attribute name="version" value="WS274"/>
+    <attribute name="url" value="https://wormbase.org/"/>
+    <reference name="dataSource" ref_id="712"/>
+    <reference name="publication" ref_id="55"/>
+</item>
+
+ <item id="714" class="" implements="DataSource">
+   <attribute name="name" value="The Mouse genome database (MGD) from Mouse Genome Informatics (MGI)"/>
+       <attribute name="description" value="The Mouse genome database (MGD) from Mouse Genome Informatics (MGI)"/>
+       <attribute name="url" value="http://www.informatics.jax.org/"/>
+</item>
+
+<item id="715" class="" implements="DataSet">
+    <attribute name="name" value="Mouse gene identifiers"/>
+    <attribute name="description" value="Mouse gene identifiers from MGI (Mouse Genome Informatics)"/>
+    <attribute name="version" value="6.14"/>
+    <attribute name="url" value="http://www.informatics.jax.org/"/>
+    <reference name="dataSource" ref_id="714"/>
+    <reference name="publication" ref_id="53"/>
+</item>
+
+
+<item id="716" class="" implements="DataSet">
+  <attribute name="name" value="Human gene identifiers"/>
+  <attribute name="description" value="Entrez Homo sapiens gene identifiers"/>
+  <attribute name="version" value="109.20190905"/>
+  <attribute name="url" value="https://www.ncbi.nlm.nih.gov"/>
+  <reference name="dataSource" ref_id="640"/>
 </item>
 
 <item id="717" class="" implements="DataSource">
@@ -535,85 +873,27 @@ D. rerio, C. elegans, M. musculus, R. norvegicus, H. sapiens, S. cerevisiae from
 </item>
 
 <item id="718" class="" implements="DataSet">
-  <attribute name="name" value="rgd-identifiers"/>
-  <attribute name="description" value="Rat gene identifiers: Approved identifiers for rat genes from the Rat Genome Database"/>
-  <attribute name="version" value="April 2020"/>
+  <attribute name="name" value="Rat gene identifiers"/>
+  <attribute name="description" value="Approved identifiers for rat genes from the Rat Genome Database"/>
+  <attribute name="version" value="2020-01-21"/>
   <attribute name="url" value="https://rgd.mcw.edu//"/>
   <reference name="dataSource" ref_id="717"/>
-  <reference name="publication" ref_id="50"/>
+  <reference name="publication" ref_id="56"/>
 </item>
 
-<item id="719" class="" implements="DataSet">
-    <attribute name="name" value="mgi-identifiers"/>
-    <attribute name="description" value="Mouse identifiers: Approved identifiers for Mouse genes from the Mouse Genome Database"/>
-<attribute name="version" value="6.15; April 2020"/>
-    <attribute name="url" value="http://www.informatics.jax.org/"/>
-    <reference name="dataSource" ref_id="709"/>
-    <reference name="publication" ref_id="51"/>
+<item id="719" class="" implements="DataSource">
+  <attribute name="name" value="HUPO Proteomics Standards Initiative"/>
+  <attribute name="description" value="Community standards for data representation in proteomics"/>
+  <attribute name="url" value="http://www.psidev.info/"/>
 </item>
 
 <item id="720" class="" implements="DataSet">
-    <attribute name="name" value="mgi-alleles"/>
-    <attribute name="description" value="Mouse alleles and phenotypes: Mouse alleles and phenotypes mapped to human orthologues"/>
-<attribute name="version" value="6.15; April 2020"/>
-    <attribute name="url" value="http://www.informatics.jax.org/"/>
-    <reference name="dataSource" ref_id="709"/>
-    <reference name="publication" ref_id="51"/>
-</item>
-
-<item id="725" class="" implements="DataSource">
-    <attribute name="name" value="Mammalian Phenotype Ontology"/>
-    <attribute name="url" value="http://www.informatics.jax.org/vocab/mp_ontology"/>
-</item>
-
-<item id="726" class="" implements="DataSet">
-    <attribute name="name" value="mammalian-phenotype-ontology"/>
-    <attribute name="description" value="Mammalian Phenotype Ontology: Phenotypic information related to the mouse and other mammalian species"/>
-    <attribute name="url" value="http://www.informatics.jax.org/vocab/mp_ontology"/>
-    <attribute name="version" value="April 2020"/>
-    <reference name="dataSource" ref_id="725"/>
-    <reference name ="publication" ref_id="52"/>
-</item>
-
-
- <item id="727" class="" implements="DataSource">
-   <attribute name="name" value="The Gene Ontology Consortium"/>
-    <attribute name="description" value="Ontology to describe the function of genes and gene products"/>
-    <attribute name="url" value="http://www.geneontology.org/"/>
-</item>
-
-
-<item id="728" class="" implements="DataSet">
-    <attribute name="name" value="go"/>
-    <attribute name="description" value="The Gene Ontology: Ontology describing the function of genes and gene products"/>
-    <attribute name="version" value="April 2020"/>
-    <attribute name="url" value="http://www.geneontology.org/"/>
-    <reference name="dataSource" ref_id="727"/>
-    <reference name="publication" ref_id="53"/>
-</item>
-
-
-<item id="729" class="" implements="DataSet">
-    <attribute name="name" value="go-annotation"/>
-    <attribute name="description" value="GO Annotation for Homo sapiens: Curated gene ontology annotations for human genes"/>
-    <attribute name="version" value="April 2020"/>
-    <attribute name="url" value="http://current.geneontology.org/annotations/index.html"/>
-    <reference name="dataSource" ref_id="727"/>
-    <reference name="publication" ref_id="53"/>
-</item>
-
-<item id="732" class="" implements="DataSource">
-    <attribute name="name" value="Orphanet"/>
-    <attribute name="url" value="https://www.orpha.net/consor/cgi-bin/index.php"/>
-</item>
-
-<item id="733" class="" implements="DataSet">
-    <attribute name="name" value="orphanet"/>
-    <attribute name="description" value="Orphanet (rare disease portal): this dataset is used to add Orphanet disease names to the Human Phenotype Ontology annotation dataset"/>
-    <attribute name="url" value="https://www.orpha.net/consor/cgi-bin/index.php"/>
-    <attribute name="version" value="April 2020"/>
-    <reference name="dataSource" ref_id="732"/>
-    <reference name ="publication" ref_id="43"/>
+  <attribute name="name" value="PSI Molecular Interactions"/>
+  <attribute name="description" value="PSI-MI CV:  A controlled vocabulary for describing molecular interactions"/>
+  <attribute name="version" value="2019-12-18"/>
+  <attribute name="url" value="https://www.ebi.ac.uk/ols/ontologies/mi/"/>
+  <reference name="dataSource" ref_id="719"/>
+  <reference name="publication" ref_id="57"/>
 </item>
 
 
