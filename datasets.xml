@@ -126,7 +126,7 @@
 <item id="14" class="" implements="DataSet">
     <attribute name="name" value="ncbi-gff"/>
     <attribute name="description" value="Homo sapiens genome annotation: released 7th June 2019"  />
-    <attribute name="version" value="109.20200228"
+    <attribute name="version" value="109.20200228" />
     <attribute name="url" value="https://www.ncbi.nlm.nih.gov"/>
     <reference name="dataSource" ref_id="09"/>
   </item>
