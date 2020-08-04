@@ -492,7 +492,7 @@ I don't know which data sets these are supposed to match
 
 <item id="621" class="" implements="DataSet">
     <attribute name="name" value="Affymetrix array: GeneChip Drosophila Genome 2.0 Array"/>
-    <attribute name="description" value="The GeneChipÂ® Drosophila Genome Array is a microarray tool for studying expression of Drosophila melanogaster transcripts."/>
+    <attribute name="description" value="The GeneChip® Drosophila Genome Array is a microarray tool for studying expression of Drosophila melanogaster transcripts."/>
 <attribute name="version" value="2.0"/>
     <attribute name="url" value="http://www.affymetrix.com/products/arrays/specific/fly.affx"/>
     <reference name="dataSource" ref_id="114"/>
@@ -500,7 +500,7 @@ I don't know which data sets these are supposed to match
 
 <item id="622" class="" implements="DataSet">
     <attribute name="name" value="Affymetrix array: GeneChip Drosophila Genome Array"/>
-    <attribute name="description" value="The GeneChipÂ® Drosophila Genome Array is a microarray tool for studying expression of Drosophila melanogaster transcripts."/>
+    <attribute name="description" value="The GeneChip® Drosophila Genome Array is a microarray tool for studying expression of Drosophila melanogaster transcripts."/>
 <attribute name="version" value="1.0"/>
     <attribute name="url" value="http://www.affymetrix.com/products/arrays/specific/fly_2.affx"/>
     <reference name="dataSource" ref_id="114"/>
@@ -819,7 +819,7 @@ I don't know which data sets these are supposed to match
 </item>
 
 <item id="711" class="" implements="DataSet">
-    <attribute name="name" value="The Sequence Ontology"/>
+    <attribute name="name" value="Sequence Ontology"/>
     <attribute name="description" value="The Sequence Ontology: a set of terms and relationships used to describe the features and attributes of biological sequence"/>
 <attribute name="version" value="2019-10-30"/>
     <attribute name="url" value="http://www.sequenceontology.org/"/>
@@ -828,14 +828,14 @@ I don't know which data sets these are supposed to match
 </item>
 
  <item id="712" class="" implements="DataSource">
-    <attribute name="name" value="wormbase"/>
-    <attribute name="description" value="Wormbase: An information resource for the genetics, genomics and biology of C. elegans and related nematodes"/>
+    <attribute name="name" value="WormBase"/>
+    <attribute name="description" value="WormBase: An information resource for the genetics, genomics and biology of C. elegans and related nematodes"/>
     <attribute name="url" value="https://wormbase.org/"/>
 </item>
 
 <item id="713" class="" implements="DataSet">
-    <attribute name="name" value="Wormbase gene identifiers"/>
-    <attribute name="description" value="Caenorhabditis elegans gene identifiers from wormbase"/>
+    <attribute name="name" value="WormBase gene identifiers"/>
+    <attribute name="description" value="Caenorhabditis elegans gene identifiers from WormBase"/>
     <attribute name="version" value="WS274"/>
     <attribute name="url" value="https://wormbase.org/"/>
     <reference name="dataSource" ref_id="712"/>
