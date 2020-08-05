@@ -136,7 +136,7 @@
 </item>
 
 <item id="55" class="" implements="Publication">
-     <attribute name="pubmed" value="30407599"/>
+     <attribute name="pubMedId" value="30407599"/>
 </item>
 
 <item id="56" class="" implements="Publication">
