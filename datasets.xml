@@ -158,7 +158,7 @@
 <item id="6833" class="" implements="DataSet">
     <attribute name="name" value="Disease models"/>
     <attribute name="description" value="Experimental and predcted disease models: (i) all experimental-based disease model annotations, associated with alleles; and (ii) all 'potential' disease models based on orthology to human disease genes in OMIM for D. melanogaster"/>
-    <attribute name="version" value="October 2019"/>
+    <attribute name="version" value="FB2020_03"/>
     <attribute name="url" value="http://flybase.org/"/>
     <reference name="dataSource" ref_id="09"/>
     <reference name="publication" ref_id="46"/> 
@@ -316,7 +316,7 @@ these aren't used. fasta dataset is set in project XML. features are loaded by c
 <item id="6950" class="" implements="DataSet">
     <attribute name="name" value="Panther orthologue and paralogue predictions"/>
     <attribute name="description" value="Orthologue and Paralogue predictions between D. melanogaster,D. rerio, C. elegans, M. musculus, R. norvegicus, H. sapiens, S. cerevisiae"/>
-    <attribute name="version" value="13.1"/>
+    <attribute name="version" value="15.0"/>
     <attribute name="url" value="http://pantherdb.org/"/>
     <reference name="dataSource" ref_id="696"/>
     <reference name="publication" ref_id="40"/> 
@@ -332,7 +332,7 @@ these aren't used. fasta dataset is set in project XML. features are loaded by c
 <item id="6980" class="" implements="DataSet">
     <attribute name="name" value="InterPro data set" />
     <attribute name="description" value="Protein family and domain assignments to D. melanogaster proteins"/>
-    <attribute name="version" value="68.0"/>
+    <attribute name="version" value="80.0"/>
     <attribute name="url" value="https://www.ebi.ac.uk/interpro/"/>
     <reference name="dataSource" ref_id="697"/>
     <reference name="publication" ref_id="41"/> 
@@ -347,7 +347,7 @@ these aren't used. fasta dataset is set in project XML. features are loaded by c
 <item id="699" class="" implements="DataSet">
     <attribute name="name" value="IntAct molecular interactions"/>
     <attribute name="description" value="Molecular interactions for Drosophila melanogaster"/>
-    <attribute name="version" value="4.2.12"/>
+    <attribute name="version" value="4.2.15; August 2020"/>
     <attribute name="url" value="https://www.ebi.ac.uk/intact/"/>
     <reference name="dataSource" ref_id="698"/>
     <reference name="publication" ref_id="42"/> 
@@ -369,7 +369,7 @@ I don't know which data sets these are supposed to match
 <item id="701" class="" implements="DataSet">
     <attribute name="name" value="Alleles and phenotypes"/>
     <attribute name="description" value="D. melanogaster alleles and phenotypes from the FlyBase database"/>
-    <attribute name="version" value="FB2019_06"/>
+    <attribute name="version" value="FB2020_03"/>
     <attribute name="url" value="http://flybase.org/"/>
     <reference name="dataSource" ref_id="09"/>
     <reference name="publication" ref_id="38"/> 
@@ -379,7 +379,7 @@ I don't know which data sets these are supposed to match
 <item id="702" class="" implements="DataSet">
     <attribute name="name" value="Artificial deletions"/>
     <attribute name="description" value="Artificial deletions from FlyBase"/>
-    <attribute name="version" value="FB2019_06"/>
+    <attribute name="version" value="FB2020_03"/>
     <attribute name="url" value="http://www.flybase.org/"/>
     <reference name="dataSource" ref_id="09"/>
     <reference name="publication" ref_id="44"/> 
@@ -402,7 +402,7 @@ I don't know which data sets these are supposed to match
 <item id="703" class="" implements="DataSet">
     <attribute name="name" value="The developmental transcriptome of Drosophila melanogaster."/>
     <attribute name="description" value="The developmental transcriptome of Drosophila melanogaster. RNA-seq data from the modENCODE project"/>
-    <attribute name="version" value="FB2019_06"/>
+    <attribute name="version" value="FB2020_03"/>
     <attribute name="url" value="http://flybase.org/"/>
     <reference name="dataSource" ref_id="09"/>
     <reference name="publication" ref_id="43"/> 
@@ -432,7 +432,7 @@ I don't know which data sets these are supposed to match
 <item id="707" class="" implements="DataSet">
     <attribute name="name" value="OMIM diseases"/>
     <attribute name="description" value="Disease-Gene mappings from OMIM: Online Mendelian Inheritance in Man: Catalog of Human Genes and Genetic Disorders"/>
-    <attribute name="version" value="April 2019"/>
+    <attribute name="version" value="August 20120"/>
 <attribute name="url" value="https://www.omim.org/"/>
     <reference name="dataSource" ref_id="706"/>
     
@@ -447,7 +447,7 @@ I don't know which data sets these are supposed to match
 <item id="11" class="" implements="DataSet">
     <attribute name="name" value="Uniprot data set"/>
     <attribute name="description" value="Uniprot - Swiss-prot and TrEMBL: Swiss-prot:high-quality, manually annotated, non-redundant protein sequences; TrEMBL: Computationally analysed records, enriched with automatic annotation"/>
-<attribute name="version" value="2019_11"/>
+<attribute name="version" value="2020_03"/>
     <attribute name="url" value="http://www.uniprot.org/"/>
     <reference name="dataSource" ref_id="13"/>
     <reference name="publication" ref_id="20"/>
@@ -516,7 +516,7 @@ I don't know which data sets these are supposed to match
 <item id="451" class="" implements="DataSet">
     <attribute name="name" value="REDfly Drosophila transcriptional cis-regulatory modules"/>
     <attribute name="description" value="cis-regulatory modules (CRMs) from the REDfly database"/>
-    <attribute name="version" value="6.0; January 2020"/>
+    <attribute name="version" value="7.1.1; August 2020"/>
     <attribute name="url" value="http://redfly.ccr.buffalo.edu/?content=/search.php"/>
     <reference name="dataSource" ref_id="450"/>
     <reference name="publication" ref_id="24"/> 
@@ -525,7 +525,7 @@ I don't know which data sets these are supposed to match
 <item id="452" class="" implements="DataSet">
     <attribute name="name" value="REDfly Drosophila transcription factor binding sites"/>
     <attribute name="description" value="Transcription factor binding sites (TFBS) from the REDfly database"/>
-    <attribute name="version" value="6.0; January 2020"/>
+    <attribute name="version" value="7.1.1; August 2020"/>
     <attribute name="url" value="http://redfly.ccr.buffalo.edu/?content=/search.php"/>
     <reference name="dataSource" ref_id="450"/>
     <reference name="publication" ref_id="24"/> 
@@ -599,7 +599,7 @@ I don't know which data sets these are supposed to match
 <item id="552" class="" implements="DataSet">
     <attribute name="name" value="Reactome pathways data set"/>
     <attribute name="description" value="Pathway information and the genes involved in them, inferred through orthologues from Human curated pathways"/>
-<attribute name="version" value="71; December 2019"/>
+<attribute name="version" value="73; June 2020"/>
     <attribute name="url" value="http://www.reactome.org"/>
     <reference name="dataSource" ref_id="117"/>
     <reference name="publication" ref_id="29"/>
@@ -653,7 +653,7 @@ I don't know which data sets these are supposed to match
 <item id="631" class="" implements="DataSet">
     <attribute name="description" value="Curated genetic and physical interaction data for Drosophila melanogaster and Saccharomyces cerevisiae"/>
     <attribute name="name" value="BioGRID interaction data set"/>
-<attribute name="version" value="3.5.181"/>
+<attribute name="version" value="3.5.188; August 2020"/>
     <attribute name="url" value="http://www.thebiogrid.org/downloads.php"/>
     <reference name="dataSource" ref_id="630"/>
     <reference name="publication" ref_id="32"/>
@@ -668,7 +668,7 @@ I don't know which data sets these are supposed to match
 <item id="641" class="" implements="DataSet">
     <attribute name="name" value="NCBI PubMed to gene mapping"/>
     <attribute name="description" value="Mappings of genes found in pubmed abstracts to genes"/>
-    <attribute name="version" value="2020-01-21"/>
+    <attribute name="version" value="August 2020"/>
     <attribute name="url" value="ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/"/>
     <reference name="dataSource" ref_id="640"/>
 </item>
@@ -676,7 +676,7 @@ I don't know which data sets these are supposed to match
 <item id="642" class="" implements="DataSet">
     <attribute name="name" value="FlyBase PubMed to gene mapping"/>
     <attribute name="description" value="Mappings of genes found in pubmed abstracts to genes"/>
-    <attribute name="version" value="FB2019_06"/>
+    <attribute name="version" value="FB2020_03"/>
     <attribute name="url" value="http://flybase.org"/>
     <reference name="dataSource" ref_id="09"/>
 </item>
@@ -684,7 +684,7 @@ I don't know which data sets these are supposed to match
 <item id="6952" class="" implements="DataSet">
     <attribute name="name" value="HomoloGene homology predictions"/>
     <attribute name="description" value="Orthology/parology predictions for D. melanogaster, C. elegans, M. musculus, R. norvegicus, H. sapiens and S. cerevisiae "/>
-<attribute name="version" value="2020-01-21"/>
+<attribute name="version" value="August 2020"/>
     <attribute name="url" value="https://www.ncbi.nlm.nih.gov/homologene"/>
     <reference name="dataSource" ref_id="640"/>
     <reference name="publication" ref_id="26615191"/>
@@ -716,7 +716,7 @@ I don't know which data sets these are supposed to match
 <item id="681" class="" implements="DataSet">
     <attribute name="name" value="The Gene Ontology"/>
     <attribute name="description" value="The Gene Ontology: Ontology describing the function of genes and gene products"/>
-    <attribute name="version" value="2020-01-21"/>
+    <attribute name="version" value="August 2020"/>
     <attribute name="url" value="http://www.geneontology.org/"/>
     <reference name="dataSource" ref_id="680"/>
     <reference name="publication" ref_id="35"/>
@@ -726,7 +726,7 @@ I don't know which data sets these are supposed to match
 <item id="6811" class="" implements="DataSet">
     <attribute name="name" value="GO Annotation for Drosophila melanogaster"/>
     <attribute name="description" value="Curated gene ontology annotations from FlyBase"/>
-    <attribute name="version" value="2020-01-01"/>
+    <attribute name="version" value="August 2020"/>
     <attribute name="url" value="http://current.geneontology.org/annotations/index.html"/>
     <reference name="dataSource" ref_id="680"/>
     <reference name="publication" ref_id="35"/>
@@ -749,7 +749,7 @@ I don't know which data sets these are supposed to match
 <item id="683" class="" implements="DataSet">
     <attribute name="name" value="Disease Ontology"/>
     <attribute name="description" value="A standardized ontology for human disease providing consistent, reusable and sustainable descriptions of human disease terms, phenotype characteristics and related medical vocabulary disease concepts"/>
-<attribute name="version" value="2019-12-12"/>
+<attribute name="version" value="August 2020"/>
     <attribute name="url" value="http://disease-ontology.org/"/>
     <reference name="dataSource" ref_id="687"/>
     <reference name="publication" ref_id="47"/>
@@ -758,7 +758,7 @@ I don't know which data sets these are supposed to match
 <item id="684" class="" implements="DataSet">
     <attribute name="name" value="Fly Anatomy Ontology"/>
     <attribute name="description" value="A structured controlled vocabulary of the anatomy of Drosophila melanogaster"/>
-<attribute name="version" value="2019-09-05"/>
+<attribute name="version" value="August 2020"/>
     <attribute name="url" value="https://flybase.org/vocabularies/"/>
     <reference name="dataSource" ref_id="09"/>
     <reference name="publication" ref_id="48"/>
@@ -767,7 +767,7 @@ I don't know which data sets these are supposed to match
 <item id="685" class="" implements="DataSet">
     <attribute name="name" value="Fly Development Ontology"/>
     <attribute name="description" value="A structured controlled vocabulary of the development of Drosophila melanogaster"/>
-    <attribute name="version" value="2019-10-21"/>
+    <attribute name="version" value="August 2020"/>
     <attribute name="url" value="https://flybase.org/vocabularies/"/>
     <reference name="dataSource" ref_id="09"/>
     <reference name="publication" ref_id="48"/>
@@ -776,7 +776,7 @@ I don't know which data sets these are supposed to match
 <item id="686" class="" implements="DataSet">
     <attribute name="name" value="FlyBase Contolled Vocabulary"/>
     <attribute name="description" value="A structured controlled vocabulary used for the annotation of various objects in FlyBase, including publications (by their type), alleles (for their mutagen etc) and phenotypic class."/>
-<attribute name="version" value="2019-07-11"/>
+<attribute name="version" value="August 2020"/>
     <attribute name="url" value="https://flybase.org/vocabularies/"/>
     <reference name="dataSource" ref_id="09"/>
     <reference name="publication" ref_id="54"/>
@@ -791,7 +791,7 @@ I don't know which data sets these are supposed to match
 <item id="689" class="" implements="DataSet">
     <attribute name="name" value="HGNC identifiers"/>
     <attribute name="description" value="HUGO gene nomenclature committee: Approved identifiers for Human genes"/>
-<attribute name="version" value="2020-01-08"/>
+<attribute name="version" value="August 2020"/>
     <attribute name="url" value="https://www.genenames.org/"/>
     <reference name="dataSource" ref_id="688"/>
     <reference name="publication" ref_id="49"/>
@@ -806,7 +806,7 @@ I don't know which data sets these are supposed to match
 <item id="709" class="" implements="DataSet">
     <attribute name="name" value="Mouse identifiers"/>
     <attribute name="description" value="Approved identifiers for Mouse genes from the Mouse Genome Database"/>
-<attribute name="version" value="6.14"/>
+<attribute name="version" value="6.15; April 2020"/>
     <attribute name="url" value="http://www.informatics.jax.org/"/>
     <reference name="dataSource" ref_id="708"/>
     <reference name="publication" ref_id="50"/>
@@ -821,7 +821,7 @@ I don't know which data sets these are supposed to match
 <item id="711" class="" implements="DataSet">
     <attribute name="name" value="Sequence Ontology"/>
     <attribute name="description" value="The Sequence Ontology: a set of terms and relationships used to describe the features and attributes of biological sequence"/>
-<attribute name="version" value="2019-10-30"/>
+<attribute name="version" value="August 2020"/>
     <attribute name="url" value="http://www.sequenceontology.org/"/>
     <reference name="dataSource" ref_id="710"/>
     <reference name="publication" ref_id="51"/>
@@ -842,26 +842,11 @@ I don't know which data sets these are supposed to match
     <reference name="publication" ref_id="55"/>
 </item>
 
- <item id="714" class="" implements="DataSource">
-   <attribute name="name" value="The Mouse genome database (MGD) from Mouse Genome Informatics (MGI)"/>
-       <attribute name="description" value="The Mouse genome database (MGD) from Mouse Genome Informatics (MGI)"/>
-       <attribute name="url" value="http://www.informatics.jax.org/"/>
-</item>
-
-<item id="715" class="" implements="DataSet">
-    <attribute name="name" value="Mouse gene identifiers"/>
-    <attribute name="description" value="Mouse gene identifiers from MGI (Mouse Genome Informatics)"/>
-    <attribute name="version" value="6.14"/>
-    <attribute name="url" value="http://www.informatics.jax.org/"/>
-    <reference name="dataSource" ref_id="714"/>
-    <reference name="publication" ref_id="53"/>
-</item>
-
 
 <item id="716" class="" implements="DataSet">
   <attribute name="name" value="Human gene identifiers"/>
   <attribute name="description" value="Entrez Homo sapiens gene identifiers"/>
-  <attribute name="version" value="109.20190905"/>
+  <attribute name="version" value="109.20200228"/>
   <attribute name="url" value="https://www.ncbi.nlm.nih.gov"/>
   <reference name="dataSource" ref_id="640"/>
 </item>
@@ -875,7 +860,7 @@ I don't know which data sets these are supposed to match
 <item id="718" class="" implements="DataSet">
   <attribute name="name" value="Rat gene identifiers"/>
   <attribute name="description" value="Approved identifiers for rat genes from the Rat Genome Database"/>
-  <attribute name="version" value="2020-01-21"/>
+  <attribute name="version" value="August 2020"/>
   <attribute name="url" value="https://rgd.mcw.edu//"/>
   <reference name="dataSource" ref_id="717"/>
   <reference name="publication" ref_id="56"/>
@@ -890,7 +875,7 @@ I don't know which data sets these are supposed to match
 <item id="720" class="" implements="DataSet">
   <attribute name="name" value="PSI Molecular Interactions"/>
   <attribute name="description" value="PSI-MI CV:  A controlled vocabulary for describing molecular interactions"/>
-  <attribute name="version" value="2019-12-18"/>
+  <attribute name="version" value="August 2020"/>
   <attribute name="url" value="https://www.ebi.ac.uk/ols/ontologies/mi/"/>
   <reference name="dataSource" ref_id="719"/>
   <reference name="publication" ref_id="57"/>
