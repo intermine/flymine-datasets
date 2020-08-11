@@ -439,13 +439,13 @@ I don't know which data sets these are supposed to match
 </item>
 
 <item id="13" class="" implements="DataSource">
-    <attribute name="name" value="Uniprot"/>
+    <attribute name="name" value="uniprot"/>
     <attribute name="description" value="Uniprot Protein Knowledgebase: a database of protein sequence and functional information "/>
     <attribute name="url" value="http://www.uniprot.org/"/>
 </item>
 
 <item id="11" class="" implements="DataSet">
-    <attribute name="name" value="Uniprot data set"/>
+    <attribute name="name" value="uniprot"/>
     <attribute name="description" value="Uniprot - Swiss-prot and TrEMBL: Swiss-prot:high-quality, manually annotated, non-redundant protein sequences; TrEMBL: Computationally analysed records, enriched with automatic annotation"/>
 <attribute name="version" value="2020_03"/>
     <attribute name="url" value="http://www.uniprot.org/"/>
@@ -714,7 +714,7 @@ I don't know which data sets these are supposed to match
 
 
 <item id="681" class="" implements="DataSet">
-    <attribute name="name" value="The Gene Ontology"/>
+    <attribute name="name" value="go"/>
     <attribute name="description" value="The Gene Ontology: Ontology describing the function of genes and gene products"/>
     <attribute name="version" value="August 2020"/>
     <attribute name="url" value="http://www.geneontology.org/"/>
@@ -724,8 +724,8 @@ I don't know which data sets these are supposed to match
 
 
 <item id="6811" class="" implements="DataSet">
-    <attribute name="name" value="GO Annotation for Drosophila melanogaster"/>
-    <attribute name="description" value="Curated gene ontology annotations from FlyBase"/>
+    <attribute name="name" value="go-annotation"/>
+    <attribute name="description" value="Curated gene ontology annotations for Drosophila melanogaster from FlyBase"/>
     <attribute name="version" value="August 2020"/>
     <attribute name="url" value="http://current.geneontology.org/annotations/index.html"/>
     <reference name="dataSource" ref_id="680"/>
