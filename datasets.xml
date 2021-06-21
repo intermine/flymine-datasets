@@ -458,7 +458,7 @@ I don't know which data sets these are supposed to match
 <item id="11" class="" implements="DataSet">
     <attribute name="name" value="uniprot"/>
     <attribute name="description" value="Uniprot - Swiss-prot and TrEMBL: Swiss-prot:high-quality, manually annotated, non-redundant protein sequences; TrEMBL: Computationally analysed records, enriched with automatic annotation"/>
-<attribute name="version" value="2020_06"/>
+<attribute name="version" value="2021_02"/>
     <attribute name="url" value="http://www.uniprot.org/"/>
     <reference name="dataSource" ref_id="13"/>
     <reference name="publication" ref_id="20"/>
@@ -468,7 +468,7 @@ I don't know which data sets these are supposed to match
 <item id="721" class="" implements="DataSet">
     <attribute name="name" value="uniprot-fasta"/>
     <attribute name="description" value="Uniprot - Swiss-prot and TrEMBL: protein sequence information"/>
-<attribute name="version" value="2020_06"/>
+<attribute name="version" value="2021_02"/>
     <attribute name="url" value="http://www.uniprot.org/"/>
     <reference name="dataSource" ref_id="13"/>
     <reference name="publication" ref_id="20"/>
@@ -478,7 +478,7 @@ I don't know which data sets these are supposed to match
 <item id="722" class="" implements="DataSet">
     <attribute name="name" value="uniprot-keywords"/>
     <attribute name="description" value="UniProt keywords: a controlled vocabulary for UniProt data"/>
-    <attribute name="version" value="2020_06"/>
+    <attribute name="version" value="2021_02"/>
     <attribute name="url" value="http://www.uniprot.org/"/>
     <reference name="dataSource" ref_id="13"/>
     <reference name="publication" ref_id="20"/>
