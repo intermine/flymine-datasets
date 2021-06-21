@@ -838,7 +838,7 @@ I don't know which data sets these are supposed to match
 <item id="709" class="" implements="DataSet">
     <attribute name="name" value="mgi-identifiers"/>
     <attribute name="description" value="Approved identifiers for Mouse genes from the Mouse Genome Database"/>
-<attribute name="version" value="6.16; May 2021/>
+<attribute name="version" value="6.16; May 2021"/>
     <attribute name="url" value="http://www.informatics.jax.org/"/>
     <reference name="dataSource" ref_id="708"/>
     <reference name="publication" ref_id="50"/>
