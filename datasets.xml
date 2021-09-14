@@ -545,7 +545,7 @@ I don't know which data sets these are supposed to match
       </item>
 
 <item id="451" class="" implements="DataSet">
-    <attribute name="name" value="REDfly Drosophila transcriptional cis-regulatory modules"/>
+    <attribute name="name" value="flyreg"/>
     <attribute name="description" value="REDfly Drosophila transcriptional cis-regulatory modules: cis-regulatory modules (CRMs) from the REDfly database"/>
     <attribute name="version" value="9.5.1; September 2021"/>
     <attribute name="url" value="http://redfly.ccr.buffalo.edu/?content=/search.php"/>
@@ -554,7 +554,7 @@ I don't know which data sets these are supposed to match
 </item>
 
 <item id="452" class="" implements="DataSet">
-    <attribute name="name" value="REDfly Drosophila transcription factor binding sites"/>
+    <attribute name="name" value="redfly"/>
     <attribute name="description" value="REDfly Drosophila transcription factor binding sites: Transcription factor binding sites (TFBS) from the REDfly database"/>
     <attribute name="version" value="9.5.1; September 2021"/>
     <attribute name="url" value="http://redfly.ccr.buffalo.edu/?content=/search.php"/>
