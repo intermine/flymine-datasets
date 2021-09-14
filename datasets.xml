@@ -395,6 +395,9 @@ I don't know which data sets these are supposed to match
     
 </item>
 -->
+
+<!--    
+    
 <item id="701" class="" implements="DataSet">
     <attribute name="name" value="Alleles and phenotypes"/>
     <attribute name="description" value="D. melanogaster alleles and phenotypes from the FlyBase database"/>
@@ -541,20 +544,11 @@ I don't know which data sets these are supposed to match
 
 <item id="621" class="" implements="DataSet">
     <attribute name="name" value="affy-probes"/>
-    <attribute name="description" value="Affymetrix array: GeneChip Drosophila Genome 2.0 Array: The GeneChip® Drosophila Genome Array is a microarray tool for studying expression of Drosophila melanogaster transcripts."/>
-<attribute name="version" value="2.0"/>
+    <attribute name="description" value="Affymetrix array: GeneChip Drosophila Genome 1.0 and 2.0 Arrays: The GeneChip® Drosophila Genome Array is a microarray tool for studying expression of Drosophila melanogaster transcripts."/>
+<attribute name="version" value="1.0 and 2.0"/>
     <attribute name="url" value="http://www.affymetrix.com/products/arrays/specific/fly.affx"/>
     <reference name="dataSource" ref_id="114"/>
 </item>
-
-<item id="622" class="" implements="DataSet">
-    <attribute name="name" value="affy-probes-1"/>
-    <attribute name="description" value="Affymetrix array: GeneChip Drosophila Genome Array: The GeneChip® Drosophila Genome Array is a microarray tool for studying expression of Drosophila melanogaster transcripts."/>
-<attribute name="version" value="1.0"/>
-    <attribute name="url" value="http://www.affymetrix.com/products/arrays/specific/fly_2.affx"/>
-    <reference name="dataSource" ref_id="114"/>
-</item>
-
 
 <item id="450" class="" implements="DataSource">
     <attribute name="name" value="REDfly"/>
@@ -646,7 +640,7 @@ I don't know which data sets these are supposed to match
 
 
 <item id="552" class="" implements="DataSet">
-    <attribute name="name" value="Reactome"/>
+    <attribute name="name" value="reactome"/>
     <attribute name="description" value="Reactome pathways data set: Pathway information and the genes involved in them, inferred through orthologues from Human curated pathways"/>
 <attribute name="version" value="77; June 2021"/>
     <attribute name="url" value="http://www.reactome.org"/>
@@ -919,7 +913,7 @@ I don't know which data sets these are supposed to match
 <item id="719" class="" implements="DataSource">
   <attribute name="name" value="HUPO Proteomics Standards Initiative"/>
   <attribute name="description" value="Community standards for data representation in proteomics"/>
-  <attribute name="url" value="http://www.psidev.info/"/>
+  <attribute name="url" value="http://www.dev.info/"/>
 </item>
 
 <item id="720" class="" implements="DataSet">
