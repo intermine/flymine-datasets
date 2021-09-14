@@ -164,6 +164,24 @@
     <reference name="publication" ref_id="46"/> 
 </item>
 
+<item id="723" class="" implements="DataSet">
+    <attribute name="name" value="chado-db-flybase-dmel"/>
+    <attribute name="description" value="Genome annotation data for Drosophila melanogaster"/>
+    <attribute name="version" value="FB2021_04"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="46"/> 
+</item>
+
+    <item id="724" class="" implements="DataSet">
+    <attribute name="name" value="flybase-dmel-gene-fasta"/>
+    <attribute name="description" value="Sequence data for Drosophila melanogaster genome"/>
+    <attribute name="version" value="FB2021_04"/>
+    <attribute name="url" value="http://flybase.org/"/>
+    <reference name="dataSource" ref_id="09"/>
+    <reference name="publication" ref_id="46"/> 
+</item>
+
 
 <!--
 these aren't used. fasta dataset is set in project XML. features are loaded by chado
