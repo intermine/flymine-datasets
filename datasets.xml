@@ -394,11 +394,8 @@ I don't know which data sets these are supposed to match
     <reference name="publication" ref_id="38"/> 
     
 </item>
--->
 
-<!--    
-    
-<item id="701" class="" implements="DataSet">
+    <item id="701" class="" implements="DataSet">
     <attribute name="name" value="Alleles and phenotypes"/>
     <attribute name="description" value="D. melanogaster alleles and phenotypes from the FlyBase database"/>
     <attribute name="version" value="FB2021_04"/>
